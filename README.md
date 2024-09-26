@@ -7,6 +7,7 @@ pkg install git python python2 nmap -y
 pip2 install requests
 pip2 install colorama 
 pkg install bash 
+git clone https://github.com/MR-GRIZO/DARK.git
 cd DARK
 chmod +x * 
 python3 GRIZ_O.py
